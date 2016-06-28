@@ -1,0 +1,23 @@
+git remote add origin https://github.com/acRnR/exam2906.git
+git push -u origin master
+
+#dict
+http://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html
+
+#tuple
+http://pythonworld.ru/tipy-dannyx-v-python/kortezhi-tuple.html
+
+#list
+http://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html
+
+#str
+http://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+
+#os
+http://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
+
+#re
+https://habrahabr.ru/post/115825/
+
+#random
+http://pythonworld.ru/moduli/modul-random.html
